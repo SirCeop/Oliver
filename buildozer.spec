@@ -16,6 +16,7 @@ orientation = portrait
 fullscreen = 0
 
 android.permissions = RECORD_AUDIO
+android.accept_sdk_license = True
 
 [buildozer]
 
