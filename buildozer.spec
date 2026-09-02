@@ -9,13 +9,14 @@ source.include_exts = py,png,jpg,kv,atlas
 
 version = 0.1
 
-requirements = python3==3.12.11,kivy,plyer
+requirements = python3,kivy,plyer
 orientation = portrait
 
 fullscreen = 0
 
 android.permissions = RECORD_AUDIO
 android.accept_sdk_license = True
+p4a.branch = master
 
 [buildozer]
 
